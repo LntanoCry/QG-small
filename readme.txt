@@ -1,0 +1,1 @@
+The LocalGit is used to store the local project
