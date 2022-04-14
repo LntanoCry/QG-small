@@ -6,3 +6,6 @@ which includes
 
 -  my weekly report
 - how to use the suitable software and website in coding
+
+week3:
+the DCKA
